@@ -1,4 +1,4 @@
-# Consentmanager.net CMP template for Google Tag Manager
+السلطان للمعاوز والملابس الرجاليهConsentmanager.net CMP template for Google Tag Manager
 With this template you can use the cookie consent provider Consentmanager.net in Google Tag Manager to obtain cookie consent from website users and control GTM tags that are setting cookies in accordance with the user's consent.
 
 Please follow these guidelines for implementation:
